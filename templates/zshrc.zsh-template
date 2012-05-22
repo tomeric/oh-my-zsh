@@ -43,3 +43,4 @@ export PATH=/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:$HOME/bin:$HOME/.rvm/bi
 [[ -s "$HOME/.rvm/scripts/rvm" ]] && __rvm_project_rvmrc
 
 export EDITOR="subl -w"
+export PATH="/Applications/Postgres.app/Contents/MacOS/bin:$PATH"
